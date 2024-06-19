@@ -76,14 +76,13 @@ div {
 }
 
 span {
-  display: inline-block; /* 或者 display: block */
+  display: inline-block; 
   margin-bottom: 10px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 20px;
   color: #000000;
   margin-right: 10px;
-  text-align: center; /* 水平居中 */
-  width: 100%; /* 如果需要水平居中，确保父元素的宽度 */
-  /* 如果你希望垂直居中，并且 `span` 元素有固定高度 */
-  line-height: 40px; /* 让行高等于高度 */
+  text-align: center;
+  width: 100%; 
+  line-height: 40px; 
 }
