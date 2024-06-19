@@ -1,0 +1,13 @@
+h1 {
+    font-family: Roboto Slab;
+    font-style: italic; 
+    font-size: 80px; 
+    text-shadow: 
+    -2px -2px 0 #333,  
+     2px -2px 0 #333,
+    -2px  2px 0 #333,
+     2px  2px 0 #333;
+    font-weight: bold; 
+    color: #ffffff; 
+    text-align: center; 
+}
